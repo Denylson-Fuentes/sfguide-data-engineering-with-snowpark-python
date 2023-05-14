@@ -1,0 +1,12 @@
+2023-05-13 22:12:03,713 (14508/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:716  - Initialized logging. Log file '../snowsql_rt.log_bootstrap', Namespaces: ['snowflake.cli', 'snowflake.connector', 'botocore', 'azure', '__main__', 'eventloop', 'sqlexecute']
+2023-05-13 22:12:03,716 (14508/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:735  - cacert?: C:\Users\Denylson\AppData\Local\Temp\_MEI176082\base_library.zip\cacert.pem, C:\Users\Denylson\AppData\Local\Temp\_MEI176082\base_library.zip\certifi\cacert.pem
+2023-05-13 22:12:03,716 (14508/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:735  - cacert?: C:\Users\Denylson\AppData\Local\Temp\_MEI176082\lib-dynload\cacert.pem, C:\Users\Denylson\AppData\Local\Temp\_MEI176082\lib-dynload\certifi\cacert.pem
+2023-05-13 22:12:03,717 (14508/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:735  - cacert?: C:\Users\Denylson\AppData\Local\Temp\_MEI176082\cacert.pem, C:\Users\Denylson\AppData\Local\Temp\_MEI176082\certifi\cacert.pem
+2023-05-13 22:12:03,718 (14508/MainThread) snowflake.cli.common.util_cli INFO       util_cli:743  - cacert.pem is set to REQUESTS_CA_BUNDLE: C:\Users\Denylson\AppData\Local\Temp\_MEI176082\certifi\cacert.pem
+2023-05-13 22:12:03,718 (14508/MainThread) __main__ DEBUG      bootstrap:347  - proxy_host:None, proxy_port: None, proxy_user: None, proxy_password:False
+2023-05-13 22:12:03,718 (14508/MainThread) __main__ INFO      bootstrap:352  - no autoupgrade option: False
+2023-05-13 22:12:03,719 (14508/MainThread) __main__ INFO      bootstrap:354  - version: None, ret_options: None
+2023-05-13 22:12:03,720 (14508/MainThread) __main__ DEBUG      bootstrap:752  - No deletion happened. The number of snowsql is still less than 5
+2023-05-13 22:12:03,721 (14508/MainThread) __main__ DEBUG      bootstrap:367  - can we upgrade?: False
+2023-05-13 22:12:03,721 (14508/MainThread) __main__ INFO      bootstrap:375  - skipping auto upgrade
+2023-05-13 22:12:03,722 (14508/MainThread) __main__ DEBUG      bootstrap:830  - Running C:\Users\Denylson\.snowsql\1.2.26\snowsql.exe
